@@ -8,10 +8,10 @@ pip install requirements.txt
 
 
 # Recursos utilizados
-pandas
-streamlit
-matplotlib
-numpy
-joblib
-plotly.express
-sklearn
+- pandas
+- streamlit
+- matplotlib
+- numpy
+- joblib
+- plotly.express
+- sklearn
